@@ -125,8 +125,6 @@ tableRows:
     Topics:
       - "Sequence Labelling: POS Tagging"
       - "Sequence Labelling: NER "
-      - "Unsupervised Models"
-      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
     Quizzes: "Quiz 8 | week 9| out 3/13 - due 3/20"
     
   - 11:
@@ -134,6 +132,7 @@ tableRows:
     Dates: "3/23 - 3/27"
     Topics:
       - Spring Break
+      - Focus on HW 4
     Quizzes: "Quiz 9 | week 10 | out 3/20 - due 3/27"
 
 
@@ -141,9 +140,8 @@ tableRows:
     Week: 12
     Dates: "3/30 - 4/03"
     Topics:
-      - "Introduction to Generative AI"
-      - "Prompt Engineering Techniques"
-      - "Retrieval Augmented Generation (RAG)"
+      - "Unsupervised Models"
+      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
     Homework:
       - "**HW4 due 4/03**"
       - "HW5 out 4/03"
@@ -151,8 +149,10 @@ tableRows:
     Week: 13
     Dates: "04/06 - 4/10"
     Topics:
+      - "Introduction to Generative AI"
+      - "Prompt Engineering Techniques"
+      - "Retrieval Augmented Generation (RAG)"
       - "Toolbox on Exploring LLMs"
-      - "Focus on HW5"
     Quizzes: "Quiz 10 | week 12 | out 4/03 - due 4/10"
 
 
@@ -160,7 +160,10 @@ tableRows:
     Week: 14
     Dates: "4/13 - 4/17"
     Topics:
-      - "Focus on HW5"
+      - Foundations of Agentic AI
+      - Architectures and Reasoning in Agentic AI
+      - Multi-Agent and Real World Systems
+
     Quizzes: "Quiz 11 | week 13 | out 4/10 - due 4/17"
 
 
